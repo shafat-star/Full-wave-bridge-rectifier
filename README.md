@@ -1,1 +1,3 @@
-# Full-wave-bridge-rectifier
+This Python project simulates and analyzes the working of a Full-Wave Bridge Rectifier, a common circuit used to convert alternating current (AC) to direct current (DC). The goal of the project is to provide a clear understanding of the rectification process using signal processing and data visualization techniques.
+
+The project models an AC input signal and then applies the mathematical principles of full-wave rectification to transform it into a DC-like output. It uses Python libraries like NumPy for signal generation and transformation, and Matplotlib for plotting and visualizing the input and output waveforms.
